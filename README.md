@@ -1,1 +1,2 @@
-# tbell.github.io
+# Основной репозиторий [https://github.com/TorteckYT/tbell](https://github.com/TorteckYT/tbell)
+Это репозиторий для использования github pages. Все файлы, лежащие в этом репозитории также есть в основном.
